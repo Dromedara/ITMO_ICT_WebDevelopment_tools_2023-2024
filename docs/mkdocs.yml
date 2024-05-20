@@ -1,0 +1,4 @@
+site_name: Labs. Pavlishina Irina
+nav:
+  - Home: index.md
+  - Lab1: lab1_main.md
